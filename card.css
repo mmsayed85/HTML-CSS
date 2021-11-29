@@ -1,0 +1,29 @@
+body {
+    font: 1rem/1.5 var(--bs-font-sans-serif);
+  }
+  a {
+    color: var(--bs-blue);
+  }
+.container-fluid{
+    display: flex ;
+}
+.fixed{
+    width: 200px;
+}
+.flex-item{
+    flex-grow: 1;
+    background-color: antiquewhite;
+}
+.card-price{
+
+
+    font-style:italic; border: 1px;
+    color:blue;
+    font-size:large;
+}
+
+.navbar-brand {
+    font-style:inherit;
+    color: blueviolet;
+    font-size: larger;
+}
